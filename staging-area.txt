@@ -1,0 +1,1 @@
+A staging area is a state that helps you to prepare data for commit. It allows distinguishing between changes in a working directory you want to commit and the changes you want to avoid committing now. Physically it's a file in git project where changes that are staged to commit are registered.
